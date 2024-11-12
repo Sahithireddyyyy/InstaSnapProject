@@ -7,7 +7,7 @@ import com.Ecommerce.instaSnap.GenericLibrary.BaseTest;
 
 public class VerifyElectronicProduct extends BaseTest {
 	@Test(priority = 1)
-	public void createProduct()
+	public void createProduct()jhuhiu
 	{
 	Reporter.log("Electronic Product Created", true);	
 	}
